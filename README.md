@@ -21,19 +21,19 @@ We work with service providers that work on our behalf which may need access to 
 # Payment processors:
 We will share your personal data with our payment processors as necessary to enable them to process your payments, and for anti-fraud purposes.
 
-# Advertising partners
+# Advertising partners:
 We work with advertising partners to enable us to customize the advertising content you may receive on the Spotify Service. These partners help us deliver more relevant ads and promotional messages to you, which may include interest based advertising (also known as online behavioral advertising), contextual advertising, and generic advertising on the Spotify Service. We and our advertising partners may process certain personal data to help Spotify understand your interests or preferences so that we can deliver advertisements that are more relevant to you.
 
 # Spotify partners:
 Depending on how you sign up for the Spotify Service (e.g. through a third party service or a mobile provider), we share your Spotify username or other User Data as necessary to enable your account. We may also share personal data with that third party about your use of the Spotify Service, such as whether and to what extent you have used the offer, activated a Spotify account, or actively used the Spotify Service. We also may share your personal data in a pseudonymised format with our music industry partners to help them understand how the content they license to us is performing and to enable you to listen to streaming content via the Spotify Service.
 
-# Academic researchers 
+# Academic researchers:
 We will share your personal data for activities such as statistical analysis and academic study but only in a pseudonymised format.
 
-# Other Spotify group companies
+# Other Spotify group companies:
 We will share your personal data with other Spotify group companies to carry out our daily business operations and to enable us to maintain and provide the Spotify Service to you.
 
-# Law enforcement and data protection authorities.
+# Law enforcement and data protection authorities:
 We share your personal data when we in good faith believe it is necessary for us to do so in order to comply with a legal obligation under applicable law, or respond to valid legal process, such as a search warrant, a court order, or a subpoena. We also share your personal data where we in good faith believe that it is necessary for the purpose of our own, or a third party’s legitimate interest relating to national security, law enforcement, litigation, criminal investigation, protecting the safety of any person, or to prevent death or imminent bodily harm, provided that we deem that such interest is not overridden by your interests or fundamental rights and freedoms requiring the protection of your personal data.
 
 # Purchasers of our business:
