@@ -51,6 +51,9 @@ The following personal data will always be publicly available on the Spotify Ser
 # Storage and Security
 Spotify is committed to protecting its users' personal data. We implement appropriate technical and organisational measures to help protect the security of your personal data; however, please note that no system is ever completely secure. We have implemented various policies including pseudonymisation, encryption, access, and retention policies to guard against unauthorised access and unnecessary retention of personal data in our systems.
 
+# Correction of personal information
+Users will be able to edit/change their personal information whenver they choose. Spotify keeps records of all changes made to personal information for future references. Also they will be allowed this access to correct any information that has changed while using the Spotify service. It is both the client and service providers duty to ensure all personal information is up to date.
+
 You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong. If you’d like to ask for a copy of your information, or to have it corrected, please contact us at 
 
 privacy@spotify.com,or 
