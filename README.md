@@ -44,7 +44,7 @@ Providing some information is optional. If you choose not to enter voice data, p
 # Sharing personal data
 We have set out the categories of recipients of the personal data collected or generated through your use of the Spotify Service.
 
-Publicly available information
+# Publicly available information
 
 The following personal data will always be publicly available on the Spotify Service: your name and/or username, profile picture, who you follow and who follows you on the Spotify Service, your recently played artists, and your public playlists.
 
