@@ -41,6 +41,16 @@ We will share your personal data in those cases where we sell or negotiate to se
 
 Providing some information is optional. If you choose not to enter voice data, payment and purchase data, contests surveys and sweepstakes, we'll be unable to provide voice features which would allow you to interact with your spotify service with your voice, Personal data users decide to sign up for a free trial or purchase and paid subscriptions or make any other purchases through the spotify service, When users complete any forms, respond to a survey or questionnaire, or participate in a contest, spotify collects the data you provide.
 
+# Sharing personal data
+We have set out the categories of recipients of the personal data collected or generated through your use of the Spotify Service.
+
+Publicly available information
+
+The following personal data will always be publicly available on the Spotify Service: your name and/or username, profile picture, who you follow and who follows you on the Spotify Service, your recently played artists, and your public playlists.
+
+# Storage and Security
+Spotify is committed to protecting its users' personal data. We implement appropriate technical and organisational measures to help protect the security of your personal data; however, please note that no system is ever completely secure. We have implemented various policies including pseudonymisation, encryption, access, and retention policies to guard against unauthorised access and unnecessary retention of personal data in our systems.
+
 You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong. If you’d like to ask for a copy of your information, or to have it corrected, please contact us at 
 
 privacy@spotify.com,or 
